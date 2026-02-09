@@ -1,5 +1,5 @@
 # app.py
-import gradio as gr
+import app as gr
 import pickle
 from sentence_transformers import SentenceTransformer
 from tensorflow.keras.models import load_model
