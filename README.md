@@ -37,6 +37,6 @@ Enter symptoms in natural language (e.g., "I have blackheads and pimples") to ge
 
 Deployed on Hugging Face Spaces with automatic building and hosting.
 
-## Author
+## video
 
-mkkarekezi
+https://youtu.be/w7ED1PhxWi4
